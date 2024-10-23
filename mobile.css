@@ -1,3 +1,8 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
 .twn-logo-icon {
     width: 136px;
     position: relative;
