@@ -232,8 +232,8 @@ body {
     max-width: 600px;
 }
 .picture-portfolio-container-child {
-    width: 160px;
-    height: 160px;
+    width: 150px;
+    height: 150px;
     object-fit: cover;
 }
 .picture-portfolio-container {
